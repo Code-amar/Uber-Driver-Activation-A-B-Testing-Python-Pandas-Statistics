@@ -1,1 +1,1 @@
-# Uber-Driver-Activation-A-B-Testing-Python-Pandas-Statistics
+# Uber-Driver-Activation-A/B-Testing-Python-Pandas-Statistics
